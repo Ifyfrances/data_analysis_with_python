@@ -1,0 +1,1 @@
+This Repo is created to complete Data analysis with Python course. A free course on Data Analysis Using Python, Pandas, Numpy provided by FreeCodeCamp. It covers exercises and data analysis projects
